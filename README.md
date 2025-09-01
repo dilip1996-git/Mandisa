@@ -1,5 +1,6 @@
 # Portfolio of Mandisa
 
+Check out [LIVE DEMO](https://dilip1996-git.github.io/Mandisa/) here!!
 ##  Features
 - Responsive design (works on desktop & mobile)  
 - Modern UI with clean sections:
