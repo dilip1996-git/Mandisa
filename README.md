@@ -11,7 +11,7 @@
 - Easy to customize (edit text, add/remove sections)
 
   ## Screenshot
-<img src="(https://dilip1996-git.github.io/Mandisa/)" alt="Screenshot" width="500"/>
+<img src="([https://dilip1996-git.github.io/Mandisa/](https://dilip1996-git.github.io/Mandisa/))" alt="Screenshot" width="500"/>
 
 
 
