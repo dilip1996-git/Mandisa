@@ -108,19 +108,21 @@ body {
 /* Hero Section */
 .hero {
   background: url("../images/IMG_8793\ 2.jpg");
-  height: 100vh;
-     background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end; 
-    align-items: center;
-    text-align: center;
-    position: relative;
-    z-index: 1;
-    padding-bottom: 5rem; 
+  height: 150vh;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center 3px;
+  color: white;
+  display: flexbox;
+  flex-direction: column;
+  justify-content: flex-end; 
+  align-items: center;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+  padding-bottom: 5rem; 
+  margin-top: 10px;
+
 
 }
 
@@ -355,15 +357,16 @@ body {
   content: center;
 }
 
-.timeline-icon::after {
+.timeline-icon::before {
   content: "";
   position: absolute;
   top: 120px; /* just below the icon */
   left: 50%;
   transform: translateX(-50%);
   width: 4px;
-  height: calc(100% - 120px); /* adjust based on icon height */
+  height: 100%; /* adjust based on icon height */
   background-color: lightgray;
+   z-index: 0;
 }
 
 /* Projects */
